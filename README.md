@@ -54,11 +54,11 @@ What are your favorite colors?
 - [[4 dark purple]] last chance ;-)
 
 In which of these repositories did you already publish data?
-[[PANGAEA]]         PANGAEA
-[[ENA]]             European Nucleotid Archive (ENA)
-[[TRY]]             TRY
-[[Dryad]]           Dryad
-[[figshare]]        figshare
+- [[PANGAEA]]         PANGAEA
+- [[ENA]]             European Nucleotid Archive (ENA)
+- [[TRY]]             TRY
+- [[Dryad]]           Dryad
+- [[figshare]]        figshare
 [[Zenodo]]          Zenodo
 [[other]]           in other repositories
 
