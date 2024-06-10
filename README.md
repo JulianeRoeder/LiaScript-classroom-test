@@ -13,7 +13,11 @@ version: 1.0
 # LiaScript-classroom-test
 test LiaScript Classroom as Mentimeter alternative
 
+Link to LiaScript version: https://liascript.github.io/course/?https://raw.githubusercontent.com/JulianeRoeder/LiaScript-classroom-test/main/README.md#1
+
 ## Text question
+
+> Please note that you can enter as many terms as you like, as long as you seperate them with a comma (e.g. little, red riding, hood and the, wolf). However, once you click on "submit", you will not be able to change your input anymore!
 
 Which repositories did you use to access data?
 **This is a one liner, you can use commas `,` to separate your inputs:**
@@ -105,4 +109,44 @@ What is your previous experience with research data management? Do you apply the
 - [                ] documenting naming conventions?
 - [                ] write a data management plan before starting a new project?
 
-##
+## Feedback
+
+How did you like the structure of this workshop?
+
+- [(1 totally)(2 agree)(3 unsure)(4 maybe not)(5 disagree)]
+- [                ] The workshop was too long
+- [                ] The workshop was too short
+- [                ] The workshop had an approriated length
+- [                ] There were enough breaks
+- [                ] The infrastructure was appropriate (room, tech, etc.)
+
+
+How did you like the contents of this workshop?
+
+- [(1 totally)(2 agree)(3 unsure)(4 maybe not)(5 disagree)]
+- [                ] The part about basics of research data management was too short
+- [                ] The part about basics of research data management was too long
+- [                ] The part about basics of research data management had an appropriate length
+- [                ] The part about data management plans was too short
+- [                ] The part about data management plans was too long
+- [                ] The part about data management plans had an appropriate length
+- [                ] The part about geospatial data was too short
+- [                ] The part about geospatial data was too long
+- [                ] The part about geospatial data had an appropriate length
+- [                ] The part about taxonomic integration was too short
+- [                ] The part about taxonomic integration was too long
+- [                ] The part about taxonomic integration had an appropriate length
+- [                ] The workshop was too long
+- [                ] The workshop was too short
+- [                ] The workshop had an approriated length
+- [                ] There were enough breaks
+- [                ] The infrastructure was appropriate (room, tech, etc.)
+
+How did you like the contents of this workshop?
+
+- [(1 totally)(2 agree)(3 unsure)(4 maybe not)(5 disagree)]
+- [                ] I expected to learn more about the basics of research datamanagement
+- [                ] I expected to learn more about writing datamanagement plans
+- [                ] I expected to learn more about geospatial data
+- [                ] I expected to learn more about taxonomic integration
+- [                ] I expected other topics
