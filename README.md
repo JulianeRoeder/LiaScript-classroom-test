@@ -14,7 +14,8 @@ version: 1.0
 test LiaScript Classroom as Mentimeter alternative
 
 ## Text question
-**Which repositories did you use to access data?**
+
+Which repositories did you use to access data?
 **This is a one liner, you can use commas `,` to separate your inputs:**
 
 [[___]]
@@ -53,7 +54,7 @@ What are your favorite colors?
 - [[3 blue]]        or blue
 - [[4 dark purple]] last chance ;-)
 
-In which of these repositories did you already **publish** **data**?
+In which of these repositories did you already **publish** <!-- style="color: red" --> data?
 
 [[PANGAEA]]         PANGAEA
 [[ENA]]             European Nucleotid Archive (ENA)
@@ -64,7 +65,7 @@ In which of these repositories did you already **publish** **data**?
 [[GitHub]]          GitHub
 [[other]]           in other repositories
 
-Which of these repositories did you already ues to access data?
+Which of these repositories did you already ues to **access** <!-- style="color: red" --> data?
 
 [[PANGAEA]]         PANGAEA
 [[ENA]]             European Nucleotid Archive (ENA)
@@ -86,7 +87,7 @@ What is your opinion about LiaScript?
 - [                ] I would use it to make online **courses**?
 - [                ] I would use it for online **surveys**?
 
-How often do you publish the following components of your research?
+How often do you **publish** the following components of your research?
 
 - [(1 never)(2 rarely)(3 sometimes)(4 regularly)(5 always)]
 - [                ] I publish my articles **open access**?
