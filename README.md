@@ -23,7 +23,7 @@ Which repositories did you use to access data?
 **This is a one liner, you can use commas `,` to separate your inputs:**
 
 [[___]]
-
+❤️
 
 ## Single choice quiz
 
@@ -136,6 +136,7 @@ How did you like the contents of this workshop?
 - [                ] The part about taxonomic integration was too short
 - [                ] The part about taxonomic integration was too long
 - [                ] The part about taxonomic integration had an appropriate length
+ 
 
 How did you like the contents of this workshop?
 
