@@ -94,11 +94,11 @@ What is your opinion about LiaScript?
 How often do you **publish** the following components of your research?
 
 - [(1 never)(2 rarely)(3 sometimes)(4 regularly)(5 always)]
-- [                ] I publish my articles **open access**?
-- [                ] I publish my **raw data**?
-- [                ] I publish my **code**?
-- [                ] I publish my **models**?
-- [                ] I publish **executable papers**?
+- [                ] I publish my articles **open access**
+- [                ] I publish my **raw data**
+- [                ] I publish my **code**
+- [                ] I publish my **models**
+- [                ] I publish **executable papers**
 
 What is your previous experience with research data management? Do you apply the following basic practises?
 
@@ -136,11 +136,6 @@ How did you like the contents of this workshop?
 - [                ] The part about taxonomic integration was too short
 - [                ] The part about taxonomic integration was too long
 - [                ] The part about taxonomic integration had an appropriate length
-- [                ] The workshop was too long
-- [                ] The workshop was too short
-- [                ] The workshop had an approriated length
-- [                ] There were enough breaks
-- [                ] The infrastructure was appropriate (room, tech, etc.)
 
 How did you like the contents of this workshop?
 
@@ -150,3 +145,7 @@ How did you like the contents of this workshop?
 - [                ] I expected to learn more about geospatial data
 - [                ] I expected to learn more about taxonomic integration
 - [                ] I expected other topics
+
+What topics did you miss in this workshop? What kind of workshops would you like to attend in the future?
+
+[[___ ___ ___ ___]]
